@@ -1,0 +1,13 @@
+# discord-dev-tools-yt-tutorial
+DiscordDevTools YouTube Video Tutorial
+
+
+PASTE THIS TO YOUR INSPECT ELEMENT CONSOLE (Browser) (Right-click on the discord logo while loading the website!): Object.defineProperty((webpackChunkdiscord_app.push([[''],{},e=>{m=[];for(let c in e.c)m.push(e.c[c])}]),m).find(m=>m?.exports?.default?.isDeveloper!==void 0).exports.default,"isDeveloper",{get:()=>true});
+
+
+
+
+Discovered by jwklong:
+
+GitHub: jwklong (Sussy layers dev)
+Discord: jwklong#5248
